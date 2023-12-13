@@ -3,7 +3,7 @@
 ## Descrição
 
 Florence Gestão Integrada de Saúde é uma solução inovadora projetada para otimizar a comunicação e eficiência no ambiente hospitalar, oferecendo uma experiência integrada para médicos, gestores hospitalares e pacientes. Inspirado em Florence Nightingale, pioneira na enfermagem moderna, o aplicativo busca elevar os padrões de cuidados de saúde.
-
+![Dashboards do Florence APP](https://cdn.discordapp.com/attachments/1082896001339240568/1184464426007543918/Group_649.png?ex=658c1175&is=65799c75&hm=d929245e91a7f50b7dfa7a8a301ba488e1fd7beb88c094b06178409bb54b2020&)
 ## Visão Geral
 
 Florence Gestão Integrada de Saúde enfrenta os desafios críticos do setor de saúde, unificando e otimizando o fluxo de informações entre médicos, gestores hospitalares e pacientes. Com uma abordagem centrada no paciente, o aplicativo simplifica agendamentos, resultados de exames, prescrições médicas e telemedicina, promovendo eficiência operacional e melhorando a qualidade do atendimento.
